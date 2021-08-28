@@ -1,14 +1,9 @@
 # setting working directory
-# main_path <- "/home/sqs64/rec_engine_scripts"
-# raw_path <- "/apps/64sqs/today"
-# output_path <- "/apps/64sqs/today/recos"
-
-
 
 #all the paths required to load and store data
-main_path <- "D:/Work/Ahalife/rec_engine_scripts"
-raw_path <- "D:/Work/Ahalife"
-output_path <- "D:/Work/Ahalife"
+main_path <- "D:/Work/rec_engine_scripts"
+raw_path <- "D:/Work/"
+output_path <- "D:/Work/"
 
 setwd(main_path)
 
